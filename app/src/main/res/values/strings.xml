@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mymy</string>
+
+    <string-array name="sid">
+
+        <item>"one"</item>
+        <item>"two"</item>
+        <item>"three"</item>
+    </string-array>
+</resources>
